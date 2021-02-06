@@ -11,7 +11,7 @@ role: Ecological Statistician
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Australian Institute of Marine Science
-  url: https://www.stanford.edu/
+  url: https://www.aims.gov.au/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ecological theory, Bayesian statistics, conservation and macroecology.
@@ -44,18 +44,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/dbarneche
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://twitter.com/dbarneche
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com.au/citations?user=V1-2VSUAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4568-2362
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Diego_R_Barneche
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
