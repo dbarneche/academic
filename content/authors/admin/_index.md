@@ -74,6 +74,8 @@ email: ""
 highlight_name: false
 ---
 
+**This webpage is currently under reconstruction. This is just a modified template; content is not yet available.**
+
 I am a quantitative ecologist, and my overarching research goal entails the use of theory-driven, fundamental science to better inform decision-making processes and ecosystem management in an ever-changing world. I am passionate about making better use of mathematical, statistical and computational tools to integrate metabolic ecology and life-history theory, and unify evolutionary ecology across scales. I test theoretical questions with a combination of experiments, field data collection, and data mining.
 
 Transparent and reproducible open science are at the core of my daily working routine, and I mostly use the R programming environment to code my projects. I am a programming instructor trained by [The Carpentries](https://carpentries.org/instructors/), and as such I organise my data, and maintain my projects under version control following [standard practice](https://software-carpentry.org/lessons/).

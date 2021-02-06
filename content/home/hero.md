@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2021-02-06
 
-title = "Ecology, Theory,<br>Stats &amp; Code"
+title = ""
 
 # Order that this section will appear in.
 weight = 3
@@ -17,15 +17,21 @@ weight = 3
 
 [design.background]
   color = "#666"  # An HTML color value.
-  image = "front.jpg"  # Name of image in `static/media/`.
-  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = ""  # front.jpg Name of image in `static/media/`.
+  image_size = "contain"
+  image_parallax = true
+  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # Text color (true=light or false=dark).
   text_color_light = true
-
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["0", "0", "0", "0"]
+
 +++
 
-<br><br><br><br>
-<a id="academic-release" href="https://www.jpkrajewski.com/">Photo credit: JP Krajewski</a>
+<p style="font-size:30px"><u>Ecology, Theory, Stats &amp; Code</u>
+<!-- <br> -->
+<!-- <p style="font-size:11px"><a id="academic-release" href="https://www.jpkrajewski.com/">Photo credit: JP Krajewski</a> -->
