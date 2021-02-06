@@ -1,38 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Diego Barneche
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ecological Statistician
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Australian Institute of Marine Science
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ecological theory, Bayesian statistics, conservation and macroecology.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ecological theory
+- Bayesian statistics
+- Computer programming
+- Macroecology
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Quantitative Ecology
+    institution: Macquarie University, Australia
+    year: 2016
+  - course: MSc in Ecology
+    institution: Universidade Federal de Santa Catarina, Brazil
+    year: 2011
+  - course: BSc in Biological Sciences
+    institution: Universidade Federal de Santa Catarina, Brazil
     year: 2008
 
 # Social/Academic Networking
@@ -70,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a quantitative ecologist, and my overarching research goal entails the use of theory-driven, fundamental science to better inform decision-making processes and ecosystem management in an ever-changing world. I am passionate about making better use of mathematical, statistical and computational tools to integrate metabolic ecology and life-history theory, and unify evolutionary ecology across scales. I test theoretical questions with a combination of experiments, field data collection, and data mining.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Transparent and reproducible open science are at the core of my daily working routine, and I mostly use the R programming environment to code my projects. I am a programming instructor trained by [The Carpentries](https://carpentries.org/instructors/), and as such I organise my data, and maintain my projects under version control following [standard practice](https://software-carpentry.org/lessons/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
