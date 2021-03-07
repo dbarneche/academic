@@ -7,7 +7,7 @@ weight = 3  # Order that this section will appear.
 
 date = 2021-02-07
 
-title = '<p style="font-size:40px; padding: 0px 0px 0px 0px"><u>Ecology, Theory,<br>Stats &amp; Code <br><br> <p style="font-size:11px"><a id="academic-release" href="https://www.jpkrajewski.com/">Photo credit: JP Krajewski</p></a></u></p>'
+title = "<u>Ecology, Theory,<br>Stats &amp; Code</u>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -19,7 +19,7 @@ title = '<p style="font-size:40px; padding: 0px 0px 0px 0px"><u>Ecology, Theory,
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#666"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -27,7 +27,7 @@ title = '<p style="font-size:40px; padding: 0px 0px 0px 0px"><u>Ecology, Theory,
   
   # Background image.
   image = "front.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
@@ -52,3 +52,7 @@ title = '<p style="font-size:40px; padding: 0px 0px 0px 0px"><u>Ecology, Theory,
   # [cta_note]
   #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
+
+<br><br><br><br>
+<a id="academic-release" href="https://www.jpkrajewski.com/">Photo credit: JP Krajewski</a>
+<a id="academic-release" img="static/img/headers/equality.png"></a>
