@@ -7,11 +7,12 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 
+weight: 30
 
-active: false
+active: true
 
-title: Featured Publications
+title: '<p style="color:black; font-size:30px">Selected publications</p><a href="../publication"><p style="color:#03A9F4; font-size:15px">See all publications...</p></a>'
+
 subtitle: ""
 
 content:
@@ -34,5 +35,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 4
 ---
